@@ -4,12 +4,13 @@
     "slug": "ListaRotativa",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "ListaRotativa",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#091450"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,6 +26,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
