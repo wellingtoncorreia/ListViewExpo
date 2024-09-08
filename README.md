@@ -1,7 +1,7 @@
 # App de Contatos - Expo
 
 Este aplicativo é um exemplo de uma lista de contatos desenvolvida utilizando o framework **Expo**. A interface lista diversos personagens e seus respectivos e-mails, com uma barra de busca para facilitar a pesquisa.<br><br>
-![image](https://github.com/wellingtoncorreia/ListViewExpo/assets/14036142/e279580e-031d-4536-baab-230b32febbb5)
+<img style="text-aling:center" src= "https://github.com/wellingtoncorreia/ListViewExpo/assets/14036142/e279580e-031d-4536-baab-230b32febbb5">
 ## Funcionalidades
 
 - Exibe uma lista de contatos fictícios com nome, e-mail e avatar.
